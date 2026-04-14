@@ -1,4 +1,5 @@
 <h1>Lewis Fordjour | <a href="https://www.linkedin.com/in/lfordjour/">IT Support Specialist
+  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
