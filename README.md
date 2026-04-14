@@ -1,4 +1,4 @@
-<h1>Lewis Fordjour| <a href="(https://www.linkedin.com/in/lfordjour/)">IT Support Specialist</a>☺</h1>
+<h1>Lewis Fordjour | <a href="(https://www.linkedin.com/in/lfordjour/)">IT Support Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
