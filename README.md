@@ -5,8 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: osTicket installation](https://github.com/lfordjour91/osticket-prereqs)
   - [osTicket: osTicket Setup](https://github.com/lfordjour91/post-install-config)
-- <b>Microsoft Azure/Active Directory</b>
-  - [Setting up Active Directory within Azure VMs](https://github.com/lfordjour91/configure-ad)
 
 
 <h2>🤳Connect with me:</h2>
